@@ -1,2 +1,5 @@
-# miapp
-miapp make with electron
+# My app with ElectronJS
+
+npm ci && npm start
+
+
